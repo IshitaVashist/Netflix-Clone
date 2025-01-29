@@ -31,6 +31,14 @@
 - 🎨 **Enjoy the Interface**: Hover over movie posters to see a subtle hover effect.
 - 🖥️ **Watch in Style**: The homepage features an interactive video background, mimicking the Netflix experience.
 
+## Screenshots
+
+![Screenshot (984)](https://github.com/user-attachments/assets/01addae1-117d-4a81-8a26-1b0a114c383a)
+![Screenshot (985)](https://github.com/user-attachments/assets/4a9bf6e6-c752-45e6-a26f-5ef2dc784a77)
+![Screenshot (986)](https://github.com/user-attachments/assets/8460659f-cb5c-48c8-9388-87e0c7f1d060)
+![Screenshot (987)](https://github.com/user-attachments/assets/d167c057-f466-41cc-b3a5-5fac48f54613)
+
+
 ## 📌 **Future Enhancements**
 
 - 🎬 **Play Movie/Show**: Integrate a feature to actually stream a movie or TV show.
